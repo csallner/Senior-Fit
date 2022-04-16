@@ -8,10 +8,13 @@
       "hash": "72e620d169841f32bc6110ad0e12ee9eae6f1aaf"
     },
     "com.github.asus4.tflite": {
-      "version": "file:com.github.asus4.tflite",
+      "version": "2.3.0",
       "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
+      "source": "registry",
+      "dependencies": {
+        "com.unity.mathematics": "1.1.0"
+      },
+      "url": "https://package.openupm.com"
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
